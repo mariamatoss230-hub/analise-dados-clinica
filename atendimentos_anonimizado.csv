@@ -1,0 +1,593 @@
+data,nome,psicologa,tipo_atendimento,valor_sessao,status,motivo,obs,mes
+02/12/2025,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 27,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+08/12/2025,Paciente 29,Psicologa 1,Infantil,"R$ 112,50",Realizada,-,-,Dezembro
+08/12/2025,Paciente 31,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+08/12/2025,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Realizada,-,-,Dezembro
+08/12/2025,Paciente 28,Psicologa 1,Individual,"R$ 90,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 27,Psicologa 1,Individual,"R$ 134,50",Realizada,-,-,Dezembro
+15/12/2025,Paciente 29,Psicologa 1,Infantil,"R$ 112,50",Realizada,-,-,Dezembro
+15/12/2025,Paciente 31,Psicologa 1,Individual,"R$ 112,50",Realizada,-,-,Dezembro
+15/12/2025,Paciente 28,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 27,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 35,Psicologa 1,Individual,"R$ 134,50",Realizada,-,-,Dezembro
+08/12/2025,Paciente 25,Psicologa 1,Individual,"R$ 0,00",Cancelada,Acompanhar pai em médico,-,Dezembro
+09/12/2025,Paciente 35,Psicologa 1,Individual,"R$ 0,00",Reagendada,Remarcou p/16/12,-,Dezembro
+16/12/2025,Paciente 26,Psicologa 1,Individual,"R$ 0,00",Cancelada,Levar mãe ao médico,-,Dezembro
+02/12/2025,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 20,Psicologa 2,Infantil,"R$ 80,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 19,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 23,Psicologa 2,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 22,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 20,Psicologa 2,Individual,"R$ 80,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 18,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 19,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 20,Psicologa 2,Infantil,"R$ 80,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 19,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 23,Psicologa 2,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+04/12/2025,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+05/12/2025,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+05/12/2025,Paciente 15,Psicologa 3,Individual,"R$ 80,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+10/12/2025,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+10/12/2025,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+12/12/2025,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,Faltou sem justificativa - sessão cobrada,-,Dezembro
+12/12/2025,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,Paciente cancelou em cima da hora - sessão cobrada,-,Dezembro
+12/12/2025,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,Paciente cancelou em cima da hora - sessão cobrada,-,Dezembro
+15/12/2025,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+17/12/2025,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,"Profissional não avisou para clínica, atendimento sem repasse ",Dezembro
+19/12/2025,Paciente 11,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+19/12/2025,Paciente 15,Psicologa 3,Individual,"R$ 80,00",Realizada,-,-,Dezembro
+19/12/2025,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+19/12/2025,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+19/12/2025,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+22/12/2025,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,Paciente cancelou em cima da hora,-,Dezembro
+22/12/2025,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+23/02/2025,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+26/12/2025,Paciente 11,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+26/12/2025,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+26/12/2025,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+26/12/2025,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+29/12/2025,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+29/12/2025,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+30/12/2025,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+08/12/2025,Paciente 2,Psicologa 3,Individual,"R$ 0,00",Reagendada,"Paciente não chegou em casa à tempo, remaracdo para o dia 09/12",-,Dezembro
+26/12/2025,Paciente 4,Psicologa 3,Individual,"R$ 0,00",Cancelada,Paciente sem condições financeiras de pagar a sessão,-,Dezembro
+25/12/2025,Paciente 14,Psicologa 3,Individual,"R$ 0,00",Reagendada,"Natal, não conseguimos outra data na semana",-,Dezembro
+05/12/2025,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 0,00",Cancelada,"Prova na faculdade, não conseguiu chegar no horário para a sessão",-,Dezembro
+20/12/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 0,00",Cancelada,"Feriado, não agendado",-,Dezembro
+08/12/2025,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 0,00",Cancelada,Viagem da paciente,-,Dezembro
+15/12/2025,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 0,00",Cancelada,Viagem da paciente,-,Dezembro
+01/12/2025,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+01/12/2025,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+01/12/2025,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+08/12/2025,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+08/12/2025,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+12/12/2025,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+15/12/2025,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+15/12/2025,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+15/12/2025,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+15/12/2025,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+01/12/2025,Paciente 62,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+08/12/2025,Paciente 62,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+01/12/2025,,Psicologa 4,Avaliação,"R$ 100,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 63,Psicologa 4,Individual,"R$ 172,50",Realizada,-,-,Dezembro
+11/12/2025,Paciente 63,Psicologa 4,Individual,"R$ 172,50",Realizada,-,-,Dezembro
+03/12/2025,Paciente 58,Psicologa 4,Individual,"R$ 130,00",Realizada,-,-,Dezembro
+10/12/2025,Paciente 58,Psicologa 4,Individual,"R$ 130,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 58,Psicologa 4,Individual,"R$ 130,00",Realizada,-,-,Dezembro
+23/12/2025,Paciente 58,Psicologa 4,Individual,"R$ 130,00",Realizada,-,-,Dezembro
+30/12/2025,Paciente 58,Psicologa 4,Individual,"R$ 130,00",Realizada,-,-,Dezembro
+02/12/2025,Paciente 60,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 60,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+17/12/2025,Paciente 57,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 51,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 51,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 51,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 45,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+12/12/2025,Paciente 45,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+03/12/2025,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+10/12/2025,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+17/12/2025,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+23/12/2025,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+01/12/2025,Paciente 49,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+22/12/2025,Paciente 49,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+03/12/2025,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+05/12/2025,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+12/12/2025,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+17/12/2025,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 56,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+11/12/2025,Paciente 56,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+18/12/2025,Paciente 56,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+10/12/2025,Paciente 48,Psicologa 4,Individual,"R$ 115,00",Realizada,-,-,Dezembro
+01/12/2025,Paciente 43,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 43,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+09/12/2025,Paciente 55,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 55,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+23/12/2025,Paciente 55,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 47,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 47,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Dezembro
+12/12/2025,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Dezembro
+12/12/2025,Paciente 41,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 38,Psicologa 4,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+11/12/2025,Paciente 38,Psicologa 4,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 38,Psicologa 4,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+23/12/2025,Paciente 38,Psicologa 4,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+19/12/2025,,Psicologa 4,Individual,"R$ 150,00",Realizada,-,Atendimento isolado ,Dezembro
+02/12/2025,Paciente 44,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Dezembro
+04/12/2025,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Dezembro
+05/12/2025,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+12/12/2025,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+19/12/2025,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+29/12/2025,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+01/12/2025,Paciente 42,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+08/12/2025,Paciente 42,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+15/12/2025,Paciente 42,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+22/12/2025,Paciente 42,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Dezembro
+11/12/2025,Paciente 40,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+18/12/2025,Paciente 40,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Dezembro
+16/12/2025,Paciente 53,Psicologa 4,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+23/12/2025,Paciente 53,Psicologa 4,Individual,"R$ 125,00",Realizada,-,-,Dezembro
+05/12/2025,Paciente 50,Psicologa 4,Individual,"R$ 137,40",Realizada,-,-,Dezembro
+12/12/2025,Paciente 50,Psicologa 4,Individual,"R$ 137,40",Realizada,-,-,Dezembro
+19/12/2025,Paciente 50,Psicologa 4,Individual,"R$ 137,40",Realizada,-,-,Dezembro
+23/12/2025,Paciente 50,Psicologa 4,Individual,"R$ 137,40",Realizada,-,-,Dezembro
+30/12/2025,Paciente 50,Psicologa 4,Individual,"R$ 137,40",Realizada,-,-,Dezembro
+18/02/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+19/12/2025,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+22/12/2025,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+24/12/2025,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+26/12/2025,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Dezembro
+26/12/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Dezembro
+29/12/2025,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 0,00",Cancelada,Faltou sem justificativa e não deu retorno por mensagens,-,Dezembro
+25/12/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 0,00",Reagendada,Feriado ,-,Dezembro
+22/12/2025,Paciente 29,Psicologa 1,Infantil,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+22/12/2025,Paciente 31,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+22/12/2025,Paciente 24,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 26,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 32,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 30,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 27,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 35,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 28,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+29/12/2025,Paciente 29,Psicologa 1,Infantil,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+29/12/2025,Paciente 31,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+29/12/2025,Paciente 28,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+30/12/2025,Paciente 26,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+30/12/2025,Paciente 32,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+30/12/2025,Paciente 30,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+30/12/2025,Paciente 27,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+30/12/2025,Paciente 35,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+30/12/2025,Paciente 34,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+23/12/2025,Paciente 34,Psicologa 1,Individual,"R$ 0,00",Cancelada,Férias da Profissional,-,Dezembro
+12/01/2026,Paciente 29,Psicologa 1,Individual,"R$ 112,50",Realizada,-,,Janeiro
+12/01/2026,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Realizada,-,,Janeiro
+12/01/2026,Paciente 28,Psicologa 1,Individual,"R$ 90,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 27,Psicologa 1,Individual,"R$ 137,50",Realizada,-,,Janeiro
+19/01/2026,Paciente 29,Psicologa 1,Infantil,"R$ 112,50",Realizada,-,,Janeiro
+19/01/2026,Paciente 68,Psicologa 1,Individual,"R$ 137,50",Realizada,-,,Janeiro
+20/01/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 27,Psicologa 1,Individual,"R$ 137,50",Realizada,-,,Janeiro
+23/01/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 29,Psicologa 1,Infantil,"R$ 112,50",Realizada,-,,Janeiro
+26/01/2026,Paciente 68,Psicologa 1,Individual,"R$ 137,50",Realizada,-,,Janeiro
+26/01/2026,Paciente 31,Psicologa 1,Individual,"R$ 150,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 35,Psicologa 1,Individual,"R$ 137,50",Realizada,-,,Janeiro
+27/01/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 27,Psicologa 1,Individual,"R$ 137,50",Realizada,-,,Janeiro
+12/01/2026,Paciente 31,Psicologa 1,Individual,"R$ 150,00",Cancelada,Precisou ir trabalhar,,Janeiro
+20/01/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Reagendada,Acompanhou a mãe no médico ,,Janeiro
+05/01/2026,Paciente 29,Psicologa 1,Infantil,"R$ 112,50",Cancelada,Férias da Pscóloga,,Janeiro
+05/01/2026,Paciente 14,Psicologa 1,Individual,"R$ 150,00",Cancelada,Férias da Pscóloga,,Janeiro
+05/01/2026,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 27,Psicologa 1,Individual,"R$ 137,50",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 35,Psicologa 1,Individual,"R$ 137,50",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Cancelada,Férias da Pscóloga,,Janeiro
+06/01/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,,Janeiro
+06/01/2026,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,,Janeiro
+06/01/2026,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,,Janeiro
+06/01/2026,Paciente 23,Psicologa 2,Individual,"R$ 150,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 20,Psicologa 2,Individual,"R$ 80,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 18,Psicologa 2,Individual,"R$ 100,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 19,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 22,Psicologa 2,Individual,"R$ 100,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 19,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,,Janeiro
+16/01/2026,Paciente 20,Psicologa 2,Infantil,"R$ 80,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 20,Psicologa 2,Infantil,"R$ 80,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 19,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 22,Psicologa 2,Individual,"R$ 100,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 19,Psicologa 2,Infantil,"R$ 100,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 20,Psicologa 2,Infantil,"R$ 80,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 23,Psicologa 2,Individual,"R$ 150,00",Cancelada,Precisou ficar com o pai ,,Janeiro
+02/01/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+02/01/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+05/01/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+07/01/2026,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,,Janeiro
+07/01/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+09/01/2026,Paciente 15,Psicologa 3,Individual,"R$ 80,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+09/01/2026,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,-,,Janeiro
+12/01/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+14/01/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+15/01/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+16/01/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+16/01/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+19/01/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+19/01/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+21/01/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+21/01/2026,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+23/01/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+23/01/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+23/01/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+23/01/2026,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+28/01/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,,Janeiro
+29/01/2026,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,,Janeiro
+30/01/2026,Paciente 15,Psicologa 3,Individual,"R$ 80,00",Realizada,-,,Janeiro
+30/01/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+30/01/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,,Janeiro
+23/01/2026,Paciente 15,Psicologa 3,Individual,"R$ 80,00",Reagendada,Paciente precilsou ir no dentista de última hora,,Janeiro
+16/01/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Reagendada,Não estava bem para ir ao atendimento,,Janeiro
+01/01/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Cancelada,Feriado ,,Janeiro
+30/01/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Reagendada,Paciente estava passando mal ,,Janeiro
+21/01/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Reagendada,Estava com visita reagendado 02/02,,Janeiro
+08/01/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Cancelada,Paciente sem agenda ,,Janeiro
+28/01/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Reagendada,"Estava com visita, reagendado para 29/01/2026",,Janeiro
+02/01/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,,Janeiro
+05/01/2026,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 80,00",Realizada,-,,Janeiro
+05/01/2026,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,,Janeiro
+12/01/2026,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 80,00",Realizada,-,,Janeiro
+15/01/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,,Janeiro
+02/01/2026,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Cancelada,Paciente estava viajando,,Janeiro
+05/01/2026,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Cancelada,Paciente estava viajando ,,Janeiro
+12/01/2026,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 80,00",Reagendada,Estava viajando - remarcado ,,Janeiro
+01/01/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Reagendada,Feriado ,,Janeiro
+12/01/2026,Paciente 9,Psicologa 3,Atendimento Social ,"R$ 100,00",Cancelada,Sem justificativa,,Janeiro
+05/01/2026,Paciente 40,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+05/01/2026,Paciente 43,Psicologa 4,Individual,"R$ 120,00",Realizada,-,,Janeiro
+06/01/2026,Paciente 60,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+06/01/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+07/01/2026,Paciente 50,Psicologa 4,Família,"R$ 137,50",Realizada,-,,Janeiro
+07/01/2026,Paciente 57,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 51,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 56,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 47,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 44,Psicologa 4,Individual,"R$ 180,00",Realizada,-,,Janeiro
+08/01/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+07/01/2026,,Psicologa 4,Supervisão ,"R$ 100,00",Realizada,-,,Janeiro
+07/01/2026,,Psicologa 4,Supervisão ,"R$ 100,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 41,Psicologa 4,Individual,"R$ 180,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+09/01/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+09/01/2026,Paciente 73,Psicologa 4,Individual,"R$ 160,00",Realizada,-,,Janeiro
+09/01/2026,Paciente 50,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+09/01/2026,Paciente 40,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+12/01/2026,Paciente 49,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+12/01/2026,Paciente 62,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+13/01/2026,Paciente 72,Psicologa 4,Individual,"R$ 160,00",Realizada,-,,Janeiro
+13/01/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+14/01/2026,Paciente 57,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+14/01/2026,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+15/01/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+15/01/2026,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,,Janeiro
+15/01/2026,Paciente 56,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+15/01/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+15/01/2026,Paciente 48,Psicologa 4,Individual,"R$ 115,00",Realizada,-,,Janeiro
+15/01/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+15/01/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+16/01/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+16/01/2026,Paciente 45,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+16/01/2026,Paciente 73,Psicologa 4,Individual,"R$ 160,00",Realizada,-,,Janeiro
+16/01/2026,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+16/01/2026,Paciente 39,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+19/01/2026,Paciente 75,Psicologa 4,Individual,"R$ 140,00",Realizada,-,,Janeiro
+19/01/2026,Paciente 42,Psicologa 4,Família,"R$ 150,00",Realizada,-,,Janeiro
+19/01/2026,Paciente 63,Psicologa 4,Família,"R$ 150,00",Realizada,-,,Janeiro
+19/01/2026,Paciente 70,Psicologa 4,Individual,"R$ 180,00",Realizada,-,,Janeiro
+20/01/2026,,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+20/01/2026,,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+20/01/2026,Paciente 55,Psicologa 4,Família,"R$ 100,00",Realizada,-,,Janeiro
+20/01/2026,Paciente 60,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+21/01/2026,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 51,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+22/01/2026,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 56,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+22/01/2026,Paciente 47,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+22/01/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+23/01/2026,Paciente 41,Psicologa 4,Individual,"R$ 180,00",Realizada,-,,Janeiro
+23/01/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+23/01/2026,Paciente 73,Psicologa 4,Individual,"R$ 160,00",Realizada,-,,Janeiro
+23/01/2026,Paciente 39,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+23/01/2026,Paciente 50,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+23/01/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 75,Psicologa 4,Individual,"R$ 140,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 49,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 42,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 62,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+26/01/2026,Paciente 70,Psicologa 4,Individual,"R$ 180,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 55,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+27/01/2026,Paciente 60,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+27/01/2026,,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+28/01/2026,Paciente 71,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+28/01/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+28/01/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+29/01/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 56,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 47,Psicologa 4,Individual,"R$ 100,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+30/01/2026,Paciente 45,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+30/01/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+30/01/2026,Paciente 50,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+30/01/2026,Paciente 39,Psicologa 4,Individual,"R$ 137,50",Realizada,-,,Janeiro
+30/01/2026,Paciente 40,Psicologa 4,Individual,"R$ 150,00",Realizada,-,,Janeiro
+29/01/2026,Paciente 76,Psicologa 4,Família,"R$ 172,50",Realizada,-,,Janeiro
+29/01/2026,,Psicologa 4,Supervisão ,"R$ 100,00",Realizada,-,,Janeiro
+02/02/2026,Paciente 31,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 29,Psicologa 1,Individual,"R$ 112,50",Cancelada,Estava passando mal ,pagou a sessão ,Fevereiro
+03/02/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 27,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+04/02/2026,Paciente 67,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+04/02/2026,Paciente 65,Psicologa 1,Individual,"R$ 147,50",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 66,Psicologa 1,Individual,"R$ 147,50",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 29,Psicologa 1,Individual,"R$ 112,50",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 31,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 27,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 35,Psicologa 1,Individual,"R$ 137,50",Cancelada,Demanda detrabalho ,pagou a sessão ,Fevereiro
+11/02/2026,Paciente 67,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 65,Psicologa 1,Individual,"R$ 147,50",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 68,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 29,Psicologa 1,Individual,"R$ 112,50",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 31,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 24,Psicologa 1,Individual,"R$ 105,00",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 64,Psicologa 1,Individual,"R$ 130,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 26,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 32,Psicologa 1,Individual,"R$ 60,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 30,Psicologa 1,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 68,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 34,Psicologa 1,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 67,Psicologa 1,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 65,Psicologa 1,Individual,"R$ 147,50",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+04/02/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+05/02/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 15,Psicologa 3,Individual,"R$ 80,00",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Cancelada,Não estava bem para comparecer ,Pagou a sessão ,Fevereiro
+17/02/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+18/02/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+18/02/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 4,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 8,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 2,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 10,Psicologa 3,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 12,Psicologa 3,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 14,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 11,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 13,Psicologa 3,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 5,Psicologa 3,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 23,Psicologa 2,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 20,Psicologa 2,Individual,"R$ 80,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 19,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 69,Psicologa 2,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 19,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 22,Psicologa 2,Individual,"R$ 100,00",Cancelada,Não estava bem para comparecer ,Pagou a sessão ,Fevereiro
+12/02/2026,Paciente 20,Psicologa 2,Individual,"R$ 80,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Cancelada,Perdeu o horário,Pagou a sessão ,Fevereiro
+19/02/2026,Paciente 16,Psicologa 2,Individual,"R$ 90,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 20,Psicologa 2,Individual,"R$ 80,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 23,Psicologa 2,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 19,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 21,Psicologa 2,Individual,"R$ 125,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 17,Psicologa 2,Individual,"R$ 115,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 22,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 69,Psicologa 2,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 19,Psicologa 2,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 20,Psicologa 2,Individual,"R$ 80,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 6,Psicologa 3,Atendimento Social ,"R$ 80,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 7,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+24/02/2025,Paciente 3,Psicologa 3,Atendimento Social ,"R$ 70,00",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 1,Psicologa 3,Atendimento Social ,"R$ 100,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 75,Psicologa 4,Individual,"R$ 140,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 42,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 62,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 70,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+02/02/2026,Paciente 73,Psicologa 4,Individual,"R$ 160,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+03/02/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+05/02/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+05/02/2026,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+05/02/2026,,Psicologa 4,Individual,,Realizada,-,-,Fevereiro
+05/02/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+05/02/2026,Paciente 76,Psicologa 4,Individual,"R$ 172,50",Realizada,-,-,Fevereiro
+05/02/2026,Paciente 48,Psicologa 4,Individual,"R$ 115,00",Realizada,-,-,Fevereiro
+05/02/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 41,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 74,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 61,Psicologa 4,Família,"R$ 137,50",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 50,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+06/02/2026,Paciente 39,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 43,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 42,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 62,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+09/02/2026,Paciente 70,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+10/02/2026,,Psicologa 4,Individual,,Realizada,-,-,Fevereiro
+10/02/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 55,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 39,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+10/02/2026,Paciente 72,Psicologa 4,Individual,"R$ 160,00",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 56,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+11/02/2026,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 48,Psicologa 4,Individual,"R$ 115,00",Realizada,-,-,Fevereiro
+12/02/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 57,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+13/02/2026,Paciente 51,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+18/02/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+18/02/2026,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+18/02/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 75,Psicologa 4,Individual,"R$ 140,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 73,Psicologa 4,Individual,"R$ 160,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 76,Psicologa 4,Individual,"R$ 172,50",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 47,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+19/02/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 70,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 45,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 74,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+20/02/2026,Paciente 50,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 42,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+23/02/2026,Paciente 43,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 56,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 72,Psicologa 4,Individual,"R$ 160,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 37,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+24/02/2026,Paciente 39,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 73,Psicologa 4,Individual,"R$ 160,00",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 54,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 53,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 62,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+25/02/2026,Paciente 38,Psicologa 4,Família,"R$ 137,50",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 46,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 36,Psicologa 4,Individual,"R$ 120,00",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 63,Psicologa 4,Individual,"R$ 150,00",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 76,Psicologa 4,Individual,"R$ 172,50",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 48,Psicologa 4,Individual,"R$ 115,00",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 50,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+26/02/2026,Paciente 58,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+26/02/2026,,Psicologa 4,Individual,,Realizada,-,-,Fevereiro
+27/02/2026,Paciente 52,Psicologa 4,Individual,"R$ 100,00",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 70,Psicologa 4,Individual,"R$ 180,00",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 38,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+27/02/2026,Paciente 61,Psicologa 4,Individual,"R$ 137,50",Realizada,-,-,Fevereiro
+16/02/2026,Paciente 43,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+16/02/2026,Paciente 42,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+16/02/2026,Paciente 62,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 54,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 55,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 39,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 60,Psicologa 4,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 21,Psicologa 2,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 17,Psicologa 2,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 23,Psicologa 2,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 29,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 31,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 24,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 26,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 32,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 27,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+17/02/2026,Paciente 30,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+18/02/2026,Paciente 34,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+18/02/2026,Paciente 67,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+02/02/2026,Paciente 68,Psicologa 1,Individual,"R$ 0,00",Cancelada,Cacelamento devido o carnaval ,-,Fevereiro
+09/02/2026,Paciente 68,Psicologa 1,Individual,"R$ 0,00",Cancelada,Não tinha com quem deixar o filho ,-,Fevereiro
+19/12/2026,Paciente 14,Psicologa 3,Individual,"R$ 0,00",Reagendada,Viagem ,-,Fevereiro
+04/02/2026,Paciente 10,Psicologa 3,Individual,"R$ 0,00",Cancelada,Visita em casa ,-,Fevereiro
+13/02/2026,Paciente 5,Psicologa 3,Individual,"R$ 0,00",Reagendada,Não quis comparecer,-,Fevereiro
+27/02/2026,Paciente 15,Psicologa 3,Individual,"R$ 0,00",Reagendada,Trabalho ,-,Fevereiro

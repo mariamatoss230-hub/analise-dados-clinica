@@ -1,0 +1,77 @@
+nome,gênero,data_de_nascimento,idade,profissão,presencial_ou_online,psicologa_responsável,tipo_de_atendimento,valor_por_sessão,como_conheceu_a_clínica
+Paciente 1,Feminino,2002-08-28,23.0,Estudante de Direito,Presencial,Psicologa 3,Semanal,"R$ 100,00",Instagram
+Paciente 2,Feminino,2005-05-16,20.0,Concursada,Presencial,Psicologa 3,Semanal,"R$ 150,00",Instagram
+Paciente 3,Feminino,1984-11-19,41.0,Administrativo,Presencial,Psicologa 3,Semanal,"R$ 70,00",Anúncio Prédio
+Paciente 4,Feminino,1981-12-10,44.0,Estudante,Presencial,Psicologa 3,Semanal,"R$ 100,00",Indicação Médico
+Paciente 5,Feminino,1974-11-15,51.0,Desempregada,Online,Psicologa 3,Semanal,"R$ 137,50",Google
+Paciente 6,Feminino,2004-10-13,21.0,Analista Financeiro,Online,Psicologa 3,Semanal,"R$ 80,00",Outras Indicações
+Paciente 7,Masculino,2000-09-29,25.0,Analista de Dados,Online,Psicologa 3,Semanal,"R$ 70,00",Indicação Paciente Horizonte
+Paciente 8,Masculino,1999-12-04,26.0,Entregador,Presencial,Psicologa 3,Semanal,"R$ 150,00",Google
+Paciente 9,Feminino,2003-06-12,22.0,nan,Online,Psicologa 3,Semanal,"R$ 100,00",Indicação Paciente Horizonte
+Paciente 10,Feminino,1982-12-20,43.0,Comerciante,Online,Psicologa 3,Semanal,"R$ 180,00",Outras Indicações
+Paciente 11,Feminino,1999-02-10,26.0,Gestora,Online,Psicologa 3,Semanal,"R$ 137,50",Instagram
+Paciente 12,Feminino,2002-04-20,23.0,Analista Admnistrativo,Online,Psicologa 3,Quinzenal,"R$ 100,00",Indicação Psicólogo
+Paciente 13,Feminino,1961-04-30,64.0,Professora Aposentada,Presencial,Psicologa 3,Semanal,"R$ 150,00",Indicação Paciente Horizonte
+Paciente 14,Feminino,2001-05-14,24.0,Fisioterapia,Presencial,Psicologa 3,Semanal,"R$ 150,00",Outras Indicações
+Paciente 15,Masculino,1993-04-24,32.0,Personal Treiner,Presencial,Psicologa 3,Semanal,"R$ 80,00",Google
+Paciente 16,Feminino,2004-10-17,21.0,Balconista,Presencial,nan,Semanal,"R$ 90,00",Google
+Paciente 17,Feminino,2004-04-02,21.0,Estudante,Presencial,nan,Quinzenal,"R$ 115,00",Indicação Paciente Horizonte
+Paciente 18,Feminino,1978-02-09,47.0,nan,Presencial,nan,Semanal,"R$ 100,00",Indicação Psicólogo
+Paciente 19,Masculino,2016-03-22,9.0,Estudante,Presencial,nan,Semanal,"R$ 100,00",Indicação Psicólogo
+Paciente 20,Feminino,2012-12-29,13.0,Estudante,Online,nan,Semanal,"R$ 80,00",Indicação Paciente Horizonte
+Paciente 21,Feminino,,,Engenheira Civil,Presencial,nan,Semanal,"R$ 125,00",BNI
+Paciente 22,Feminino,2007-08-26,18.0,Desempregada,Presencial,nan,Quinzenal,"R$ 100,00",Indicação Psicólogo
+Paciente 23,Feminino,1990-05-07,26.0,Psicologa,Presencial,nan,Quinzenal,"R$ 150,00",Indicação Psicólogo
+Paciente 24,Masculino,1950-12-23,75.0,Aposentado,Presencial,Psicologa 1,Quinzenal,"R$ 105,00",Google
+Paciente 25,Masculino,2010-11-29,15.0,Estudante,Presencial,Psicologa 1,Semanal,"R$ 150,00",Google
+Paciente 26,Feminino,1995-02-21,30.0,Arquivista,Presencial,Psicologa 1,Semanal,"R$ 100,00",Central de Terapia
+Paciente 27,Feminino,1971-11-08,54.0,Diarista,Online,Psicologa 1,Semanal,"R$ 137,50",Indicação Psicólogo
+Paciente 28,Feminino,1995-03-27,30.0,Profissional do Sexo,Presencial,Psicologa 1,Semanal,"R$ 90,00",Central de Terapia
+Paciente 29,Masculino,2015-01-09,11.0,Estudante,Presencial,Psicologa 1,Semanal,"R$ 112,50",Indicação Psicólogo
+Paciente 30,Feminino,1985-12-27,40.0,Autônoma,Online,Psicologa 1,Semanal,"R$ 150,00",Google
+Paciente 31,Feminino,1998-05-08,27.0,Enfermeira,Presencial,Psicologa 1,Semanal,"R$ 150,00",Google
+Paciente 32,Feminino,2000-10-21,25.0,Pedagoga,Online,Psicologa 1,Semanal,"R$ 60,00",Indicação Psicólogo
+Paciente 33,Masculino,,61.0,Desempregado,Presencial,Psicologa 1,Semanal,"R$ 137,50",Indicação Paciente Horizonte
+Paciente 34,Feminino,2000-03-10,25.0,Enfermeira,Online,Psicologa 1,Quinzenal,"R$ 100,00",Indicação Psicólogo
+Paciente 35,Feminino,1987-09-14,38.0,Empreendedora,Online,Psicologa 1,Semanal,"R$ 137,50",BNI
+Paciente 36,Feminino,1995-10-16,30.0,Prefeitura,Online,Psicologa 4,Semanal,"R$ 120,00",Indicação Psicólogo
+Paciente 37,Feminino,1987-06-06,38.0,Tecnica de Enfermagem,Online,Psicologa 4,Semanal,"R$ 100,00",Central de Terapia
+Paciente 38,Feminino,2003-10-01,22.0,Estudante de Direito,Presencial,Psicologa 4,Semanal,"R$ 137,50",Google
+Paciente 39,Feminino,2012-05-18,13.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 137,50",Indicação Paciente Horizonte
+Paciente 40,Feminino,1991-11-04,34.0,Advogada,Presencial,Psicologa 4,Quinzenal,"R$ 150,00",Indicação Psicólogo
+Paciente 41,Feminino,1996-04-12,29.0,Advogada,Presencial,Psicologa 4,Quinzenal,"R$ 180,00",Google
+Paciente 42,Feminino,2008-01-18,17.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 150,00",Indicação Psicólogo
+Paciente 43,Feminino,2004-06-26,21.0,Auxiliar Administrativo,Presencial,Psicologa 4,Quinzenal,"R$ 120,00",Central de Terapia
+Paciente 44,Feminino,1995-06-03,30.0,Dentista,Presencial,Psicologa 4,Quinzenal,"R$ 180,00",Google
+Paciente 45,Masculino,1987-04-08,39.0,Gerente de TI,Online,Psicologa 4,Quinzenal,"R$ 150,00",Central de Terapia
+Paciente 46,Masculino,2004-03-19,21.0,Estudante de Veterinaria,Online,Psicologa 4,Semanal,"R$ 137,50",Indicação Psicólogo
+Paciente 47,Feminino,1993-10-23,32.0,Química,Presencial,Psicologa 4,Quinzenal,"R$ 100,00",Central de Terapia
+Paciente 48,Feminino,1997-03-26,28.0,Estudante de Concurso,Presencial,Psicologa 4,Quinzenal,"R$ 115,00",Indicação Paciente Horizonte
+Paciente 49,Masculino,1986-09-26,39.0,Gerente de Fabrica,Presencial,Psicologa 4,Quinzenal,"R$ 150,00",Instagram
+Paciente 50,Feminino,2009-10-12,16.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 137,50",Central de Terapia
+Paciente 51,Feminino,2003-09-14,22.0,Estudante de Markentg,Online,Psicologa 4,Semanal,"R$ 150,00",Outras Indicações
+Paciente 52,Feminino,1988-12-16,37.0,Câmara Municipal,Online,Psicologa 4,Semanal,"R$ 100,00",Indicação Paciente Horizonte
+Paciente 53,Feminino,1994-12-16,31.0,Auxiliar Administrativo,Online,Psicologa 4,Semanal,"R$ 137,50",Central de Terapia
+Paciente 54,Feminino,1999-06-28,26.0,Concursada,Online,Psicologa 4,Semanal,"R$ 137,50",Central de Terapia
+Paciente 55,Feminino,2010-09-21,15.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 100,00",Indicação Paciente Horizonte
+Paciente 56,Feminino,2006-08-25,19.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 150,00",Indicação Psicólogo
+Paciente 57,Feminino,2000-03-31,25.0,Psicóloga,Presencial,Psicologa 4,Quinzenal,"R$ 150,00",Google
+Paciente 58,Feminino,1974-06-13,51.0,Auxiliar Administrativo,Online,Psicologa 4,Semanal,"R$ 137,50",Indicação Psicólogo
+Paciente 59,Feminino,,,Herdeira,Online,Psicologa 4,Quinzenal,"R$ 170,00",Indicação Psicólogo
+Paciente 60,Feminino,,,Arquiteta,Online,Psicologa 4,Quinzenal,"R$ 150,00",Central de Terapia
+Paciente 61,Não - Binárie,2008-11-05,17.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 137,50",Indicação Médico
+Paciente 62,Masculino,,,Estudante,Presencial,Psicologa 4,Semanal,"R$ 150,00",BNI
+Paciente 63,Masculino,1994-04-25,31.0,Desempregado,Presencial,Psicologa 4,Semanal,"R$ 150,00",Indicação Psicólogo
+Paciente 64,Feminino,2010-09-23,15.0,Estudante,Presencial,Psicologa 1,Quinzenal,"R$ 130,00",Indicação Psicólogo
+Paciente 65,Feminino,2000-07-14,25.0,nan,Online,Psicologa 1,Semanal,"R$ 147,50",Central de Terapia
+Paciente 66,Feminino,1985-04-13,40.0,nan,Presencial,Psicologa 1,Semanal,"R$ 147,50",Instagram
+Paciente 67,Feminino,1995-09-15,30.0,nan,Presencial,Psicologa 1,Semanal,"R$ 137,50",Instagram
+Paciente 68,Feminino,1994-04-11,31.0,nan,Presencial,Psicologa 1,Semanal,"R$ 137,50",Central de Terapia
+Paciente 69,Feminino,1999-03-19,26.0,nan,Presencial,nan,Quinzenal,"R$ 120,00",BNI
+Paciente 70,Masculino,1988-05-29,37.0,Engenheiro Civil,Presencial,Psicologa 4,Semanal,"R$ 180,00",BNI
+Paciente 71,Masculino,1996-09-03,29.0,Manutenção,Presencial,Psicologa 4,Semanal,"R$ 150,00",Indicação Psicólogo
+Paciente 72,Feminino,1996-09-17,29.0,Segurança do Trabalho,Online,Psicologa 4,Quinzenal,"R$ 160,00",Central de Terapia
+Paciente 73,Feminino,2001-10-05,24.0,Análise Clínica,Online,Psicologa 4,Semanal,"R$ 160,00",Indicação Paciente Horizonte
+Paciente 74,Feminino,,,Desempregada,Presencial,Psicologa 4,Quinzenal,"R$ 150,00",Google
+Paciente 75,Feminino,1989-11-27,36.0,Edição de Vídeo,Presencial,Psicologa 4,Quinzenal,"R$ 140,00",Google
+Paciente 76,Feminino,2010-02-20,16.0,Estudante,Presencial,Psicologa 4,Semanal,"R$ 172,50",Indicação Médico
